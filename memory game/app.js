@@ -1,0 +1,8 @@
+const cardAray = [
+    {
+        name: '',
+        img: 
+    }
+
+
+]
